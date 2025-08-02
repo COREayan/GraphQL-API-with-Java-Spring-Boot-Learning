@@ -1,6 +1,6 @@
 **🚀 GraphQL API with Java Spring Boot & MySQL**
 
-This project demonstrates how to build a GraphQL API using Java, Spring Boot, Spring Data JPA, and MySQL. It is built while learning from the Udemy course GraphQL API with Java Spring Boot & Spring Data JPA and MySQL.
+    This project demonstrates how to build a GraphQL API using Java, Spring Boot, Spring Data JPA, and MySQL. It is built while learning from the Udemy course GraphQL API with Java Spring Boot & Spring Data JPA and MySQL.
 
 **📚 Technologies Used** 
     

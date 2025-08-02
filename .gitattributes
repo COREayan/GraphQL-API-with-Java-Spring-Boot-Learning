@@ -1,0 +1,7 @@
+# Auto normalize text files to LF
+* text=auto
+
+# Explicitly set for markdown and source code files
+*.md text eol=lf
+*.java text eol=lf
+*.yml text eol=lf

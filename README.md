@@ -1,4 +1,5 @@
 **🚀 GraphQL API with Java Spring Boot & MySQL**
+
 This project demonstrates how to build a GraphQL API using Java, Spring Boot, Spring Data JPA, and MySQL. It is built while learning from the Udemy course GraphQL API with Java Spring Boot & Spring Data JPA and MySQL.
 
 **📚 Technologies Used** 
@@ -10,7 +11,7 @@ This project demonstrates how to build a GraphQL API using Java, Spring Boot, Sp
 - Project Lombok
 - Altair GraphQL Client (for query testing)
 
-📌 Features
+**📌 Features**
 - 📖 Define GraphQL Schemas (Query & Mutation)
 - 🔍 Fetch data using GraphQL queries
 - ✅ Insert/update data using mutations
@@ -18,17 +19,17 @@ This project demonstrates how to build a GraphQL API using Java, Spring Boot, Sp
 - 🧪 Input validation
 - ☁️ Deployment-ready for Heroku
 
-🗂️ Project Structure
+**🗂️ Project Structure**
 
-🚦 Sample GraphQL Query
+**🚦 Sample GraphQL Query**
 
-✍️ Sample GraphQL Mutation
+**✍️ Sample GraphQL Mutation**
 
-🔧 Running Locally
+**🔧 Running Locally**
 
-🌐 Deployment
+**🌐 Deployment**
 
-📘 Learnings
+**📘 Learnings**
 
 This project covered:
 - Difference between GraphQL & REST APIs
@@ -37,7 +38,7 @@ This project covered:
 - Using GraphQL Variables
 - Deploying to Heroku with MySQL and Spring Boot
 
-🎓 Course Reference 
+**🎓 Course Reference** 
 - Course: GraphQL API with Java Spring Boot & Spring Data JPA and MySQL
 - Instructor: Infybuzz Learning 
 - Rating: ⭐ 4.4 (2,991 reviews)

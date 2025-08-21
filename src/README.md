@@ -26,3 +26,11 @@ GraphQL vs REST API.
 - Over and Under fetching with REST API. 
 - REST has different http methods and separate endpoint for each API while in GraphQL we have Query and Mutation and there is only one endpoint. 
 - GraphQL needs Schema file while REST does NOT need that.
+
+
+**Project Lombok**
+- It build with Java.
+- To avoid boilerplate code.
+- Getters, Setters and Constructors are easy to have with just annotations.
+- Can be used in any Java Application.
+- 
